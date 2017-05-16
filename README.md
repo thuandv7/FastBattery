@@ -1,0 +1,2 @@
+# FastBattery
+Sạc pin nhanh
